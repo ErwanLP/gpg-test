@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "fingerprinting": "^1.0.1",
-    "openpgp": "^4.10.1"
+    "openpgp": "^4.10.11"
   }
 }
